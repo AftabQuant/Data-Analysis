@@ -1,0 +1,26 @@
+{
+    "People 1": [
+        {
+            "Name": "Aftab",
+            "Age": 20,
+            "Course": "Cse-Ds"
+        },
+        {
+            "Name": "Aftab",
+            "Age": 20,
+            "Course": "Cse-Ds"
+        }
+    ],
+    "People 2": [
+        {
+            "Name": "Aftab",
+            "Age": 20,
+            "Course": "Cse-Ds"
+        },
+        {
+            "Name": "Aftab",
+            "Age": 20,
+            "Course": "Cse-Ds"
+        }
+    ]
+}
