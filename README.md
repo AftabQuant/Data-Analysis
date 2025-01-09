@@ -2,7 +2,7 @@ Welcome to my **Data Analysis Projects** repository! This collection showcases v
 
 ### Repository Structure
 
-- **Excel Mastery/**: Projects demonstrating data analysis using Microsoft Excel.
-- **MySQL/**: Exercises focusing on data querying and management with MySQL.
-- **Power BI Course/**: Visual analytics and business intelligence projects utilizing Power BI.
-- **Python Adventures/**: Data analysis scripts and notebooks written in Python.
+- **Excel Mastery**: Learning data manipulation, pivot tables, and basic visualizations in Excel.
+- **MySQL**: Writing and optimizing SQL queries to extract and analyze data.
+- **Power BI**: Exploring business intelligence by creating dashboards and reports.
+- **Python for Data Analysis**: Gaining hands-on experience with data manipulation, visualization, and analysis using Python libraries like Pandas, NumPy, and Matplotlib.
