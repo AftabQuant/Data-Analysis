@@ -1,4 +1,4 @@
-Welcome to my **Data Analysis ** repository! This collection showcases various data analysis endeavors aimed at enhancing my skills in data manipulation, visualization, and interpretation.
+Welcome to my **Data Analysis** repository! This collection showcases various data analysis endeavors aimed at enhancing my skills in data manipulation, visualization, and interpretation.
 
 ### Repository Structure
 
