@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="098b17a1-bf34-4850-b0cb-20fd4816fad0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GitLink.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Convert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/FindBinaryNum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/IdentityOperator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/LogicalOperator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/MembershipOperator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/SwapFunc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/TypeCasting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional Statement/FindDigit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional Statement/FindMarks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional Statement/IsPositive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional Statement/IsVowel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional Statement/ShortHandIfElseStatement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional Statement/ifStatement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorators/Basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Dictionary2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/DictionaryFunc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Nested Dic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Problems.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/SetOperation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/SetProblems.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Sets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Tuples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception Handling/File Not Found.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception Handling/Main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception Handling/Sabudh Intern/Code 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception Handling/Sabudh Intern/Zero Division Error.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/LambdaFunc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Local&amp;GlobalVar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Problems.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Youtube/Basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Youtube/Filter Function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Youtube/Lambda Func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Youtube/Map Function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Youtube/Multiple Arguments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/isPrimeOrNot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/List Comprehension/Filters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/List Comprehension/Main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/BasicFunc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Iterations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Problems.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/buildinFunc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/searchElement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/BillingSystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/FiboSeries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/FibonacciSeries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/Pattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/SquareAll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/SumOfEvenNum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/Table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/Triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileLoop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/forLoop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/isPrimeNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/DateTime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/Math.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/Random.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/tempModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/Basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Abstraction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Class &amp; Object.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Constructor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Inheritance Student.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Multiple Inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Polymorphism.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Private Access Modifier.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Protected Access Modifier.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Super In Multiple Inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Super Keyword.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/Student.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern Printing/Flip Triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern Printing/Reverse Triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern Printing/Triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/BillTaxPayment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/CheckPassword.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/DictionaryPrac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/GCD &amp; LCM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Lab/Input Take In List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Lab/ListCheck.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Lab/Perfect Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Lab/Prime Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Lab/Slicing Operation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Lab/Sort Dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Lab/Sort List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Lab/Square And Cube.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Lab/Sum Of Every Row.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Lab/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/NoteDenomination.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/PracticePy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/SeriesPrimeNum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Vowel Count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/isArmstrongNum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/FibonacciSeries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Print1ToN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/PrintNto1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Manipulation/Basic Operation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Manipulation/Main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Manipulation/Operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Manipulation/PrintChar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Manipulation/PrintSubstring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Manipulation/ReverseString.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Manipulation/buildinFunc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Manipulation/buildinFunc2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Manipulation/strOperations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/folderico-approved.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Conversation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Demo/Demo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Demo/ReadMode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Demo/WriteMode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Details/Details.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Details/ReadDetails.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Details/WriteDetails.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Oops Json/Employee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Oops Json/Employee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Practice Set/Set1/Conversation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Practice Set/Set1/Data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Practice Set/Set1/Read Data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Practice Set/Set1/Write Data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Student/Student.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json Func/Student/WriteStudent.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mlxjk8FXY56ZLZtV4f2jaJDZUR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Abstraction.executor": "Run",
+    "Python.Basic Operation.executor": "Run",
+    "Python.BasicFunc.executor": "Run",
+    "Python.Basics.executor": "Run",
+    "Python.BillTaxPayment.executor": "Run",
+    "Python.BillingSystem.executor": "Run",
+    "Python.CheckPassword.executor": "Run",
+    "Python.Class & Object.executor": "Run",
+    "Python.Code 1.executor": "Run",
+    "Python.Constructor.executor": "Run",
+    "Python.Conversation.executor": "Run",
+    "Python.Convert Data.executor": "Run",
+    "Python.Convert.executor": "Run",
+    "Python.DateTime.executor": "Run",
+    "Python.Dictionary.executor": "Run",
+    "Python.Dictionary2.executor": "Run",
+    "Python.DictionaryFunc.executor": "Run",
+    "Python.DictionaryPrac.executor": "Run",
+    "Python.DictionaryToJSON.executor": "Run",
+    "Python.Factorial.executor": "Run",
+    "Python.FiboSeries.executor": "Run",
+    "Python.FibonacciSeries.executor": "Run",
+    "Python.File Not Found.executor": "Run",
+    "Python.Filter Function.executor": "Run",
+    "Python.Filters.executor": "Run",
+    "Python.FindBinaryNum.executor": "Run",
+    "Python.FindDigit.executor": "Run",
+    "Python.FindMarks.executor": "Run",
+    "Python.Flip Triangle.executor": "Run",
+    "Python.GCD & LCM.executor": "Run",
+    "Python.IdentityOperator.executor": "Run",
+    "Python.Inheritance Student.executor": "Run",
+    "Python.Inheritance.executor": "Run",
+    "Python.Input Take In List.executor": "Run",
+    "Python.IsPositive.executor": "Run",
+    "Python.IsVowel.executor": "Run",
+    "Python.Iterations.executor": "Run",
+    "Python.Lambda Func.executor": "Run",
+    "Python.LambdaFunc.executor": "Run",
+    "Python.ListCheck.executor": "Run",
+    "Python.Local&GlobalVar.executor": "Run",
+    "Python.LogicalOperator.executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python.Map Function.executor": "Run",
+    "Python.Math.executor": "Run",
+    "Python.MembershipOperator.executor": "Run",
+    "Python.Multiple Arguments.executor": "Run",
+    "Python.Multiple Inheritance.executor": "Run",
+    "Python.Nested Dic.executor": "Run",
+    "Python.NoteDenomination.executor": "Run",
+    "Python.NumPy.executor": "Run",
+    "Python.Operator+.executor": "Run",
+    "Python.Operator.executor": "Run",
+    "Python.Pattern.executor": "Run",
+    "Python.Perfect Number.executor": "Run",
+    "Python.Polymorphism.executor": "Run",
+    "Python.PracticePy.executor": "Run",
+    "Python.Prime Number.executor": "Run",
+    "Python.Print1ToN.executor": "Run",
+    "Python.PrintChar.executor": "Run",
+    "Python.PrintNto1.executor": "Run",
+    "Python.PrintSubstring.executor": "Run",
+    "Python.Private Access Modifier.executor": "Run",
+    "Python.Problems.executor": "Run",
+    "Python.Protected Access Modifier.executor": "Run",
+    "Python.Random.executor": "Run",
+    "Python.Read File.executor": "Run",
+    "Python.ReadDeatails.executor": "Run",
+    "Python.ReadDetails.executor": "Run",
+    "Python.ReadMode.executor": "Run",
+    "Python.ReadStudent.executor": "Run",
+    "Python.Reverse Triangle.executor": "Run",
+    "Python.ReverseString.executor": "Run",
+    "Python.SeriesPrimeNum.executor": "Run",
+    "Python.SetOperation.executor": "Run",
+    "Python.SetProblems.executor": "Run",
+    "Python.Sets.executor": "Run",
+    "Python.ShortHandIfElseStatement.executor": "Run",
+    "Python.Slicing Operation.executor": "Run",
+    "Python.Sort Dictionary.executor": "Run",
+    "Python.Sort List.executor": "Run",
+    "Python.Square And Cube.executor": "Run",
+    "Python.SquareAll.executor": "Run",
+    "Python.Student.executor": "Run",
+    "Python.Sum Of Every Row.executor": "Run",
+    "Python.SumOfEvenNum.executor": "Run",
+    "Python.Super In Multiple Inheritance.executor": "Run",
+    "Python.Super Keyword.executor": "Run",
+    "Python.SwapFunc.executor": "Run",
+    "Python.Table.executor": "Run",
+    "Python.Toples.executor": "Run",
+    "Python.Triangle.executor": "Run",
+    "Python.Tuples.executor": "Run",
+    "Python.TypeCasting.executor": "Run",
+    "Python.Variables.executor": "Run",
+    "Python.Vowel Count.executor": "Run",
+    "Python.WhileLoop.executor": "Run",
+    "Python.Write Data.executor": "Run",
+    "Python.WriteDetails.executor": "Run",
+    "Python.WriteFile.executor": "Run",
+    "Python.WriteIntoNewFile.executor": "Run",
+    "Python.WriteStudent.executor": "Run",
+    "Python.Zero Division Error.executor": "Run",
+    "Python.buildinFunc.executor": "Run",
+    "Python.buildinFunc2.executor": "Run",
+    "Python.forLoop.executor": "Run",
+    "Python.ifStatement.executor": "Run",
+    "Python.isArmstrongNum.executor": "Run",
+    "Python.isPrimeNumber.executor": "Run",
+    "Python.isPrimeOrNot.executor": "Run",
+    "Python.json with Oops.executor": "Run",
+    "Python.jsonDetails.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.s1.executor": "Run",
+    "Python.searchElement.executor": "Run",
+    "Python.strOperations.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Ultimate Programming/Data Analytics/Python Adventures/pythonProject",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ultimate Programming\Data Analytics\Python Adventures\pythonProject\json Func\Details" />
+      <recent name="D:\Ultimate Programming\Data Analytics\Python Adventures\pythonProject\json Func\Oops Json" />
+      <recent name="D:\Ultimate Programming\Data Analytics\Python Adventures\pythonProject\json Func\Demo" />
+      <recent name="D:\Ultimate Programming\Data Analytics\Python Adventures\pythonProject\json Func\Student" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1f77c24022e5-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="098b17a1-bf34-4850-b0cb-20fd4816fad0" name="Changes" comment="" />
+      <created>1727665101508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727665101508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
