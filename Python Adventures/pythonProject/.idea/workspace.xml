@@ -5,139 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="098b17a1-bf34-4850-b0cb-20fd4816fad0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GitLink.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python DS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python DS/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python DS/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python DS/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project Pc/Exception Handling/Read Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Project Pc/Exception Handling/Read Files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Convert.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/FindBinaryNum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/IdentityOperator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/LogicalOperator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/MembershipOperator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/SwapFunc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/TypeCasting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Variables.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional Statement/FindDigit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional Statement/FindMarks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional Statement/IsPositive.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional Statement/IsVowel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional Statement/ShortHandIfElseStatement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional Statement/ifStatement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorators/Basics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Dictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Dictionary2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/DictionaryFunc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Nested Dic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Problems.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/SetOperation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/SetProblems.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Sets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries &amp; Sets/Tuples.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception Handling/File Not Found.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception Handling/Main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception Handling/Sabudh Intern/Code 1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception Handling/Sabudh Intern/Zero Division Error.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/LambdaFunc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Local&amp;GlobalVar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Problems.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Youtube/Basics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Youtube/Filter Function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Youtube/Lambda Func.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Youtube/Map Function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Youtube/Multiple Arguments.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/isPrimeOrNot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List Comprehension/Filters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List Comprehension/Main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/BasicFunc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/Basics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/Iterations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/Problems.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/buildinFunc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/searchElement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/BillingSystem.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/FiboSeries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/FibonacciSeries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Pattern.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/SquareAll.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/SumOfEvenNum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/WhileLoop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/forLoop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/isPrimeNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/DateTime.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/Math.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/Random.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/tempModule.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/Basics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Abstraction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Class &amp; Object.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Constructor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Inheritance Student.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Multiple Inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Polymorphism.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Private Access Modifier.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Protected Access Modifier.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Super In Multiple Inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/College Wallah/Super Keyword.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/Student.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pattern Printing/Flip Triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pattern Printing/Reverse Triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pattern Printing/Triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/BillTaxPayment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/CheckPassword.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/DictionaryPrac.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/GCD &amp; LCM.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Lab/Input Take In List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Lab/ListCheck.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Lab/Perfect Number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Lab/Prime Number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Lab/Slicing Operation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Lab/Sort Dictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Lab/Sort List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Lab/Square And Cube.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Lab/Sum Of Every Row.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Lab/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/NoteDenomination.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/PracticePy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/SeriesPrimeNum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Vowel Count.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/isArmstrongNum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/Factorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/FibonacciSeries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/Print1ToN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/PrintNto1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String Manipulation/Basic Operation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String Manipulation/Main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String Manipulation/Operator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String Manipulation/PrintChar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String Manipulation/PrintSubstring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String Manipulation/ReverseString.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String Manipulation/buildinFunc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String Manipulation/buildinFunc2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String Manipulation/strOperations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/folderico-approved.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Conversation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Demo/Demo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Demo/ReadMode.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Demo/WriteMode.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Details/Details.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Details/ReadDetails.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Details/WriteDetails.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Oops Json/Employee.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Oops Json/Employee.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Practice Set/Set1/Conversation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Practice Set/Set1/Data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Practice Set/Set1/Read Data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Practice Set/Set1/Write Data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Student/Student.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json Func/Student/WriteStudent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,9 +163,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "D:/Ultimate Programming/Data Analytics/Python Adventures/pythonProject",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -314,6 +201,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -327,7 +215,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-1f77c24022e5-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26830.99" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -339,8 +228,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727665101508</updated>
+      <workItem from="1761405977300" duration="56000" />
+      <workItem from="1761449399127" duration="321000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
